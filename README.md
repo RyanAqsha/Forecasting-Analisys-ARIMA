@@ -1,1 +1,1 @@
-# Forecasting-Analisys-ARIMA
+# Forecasting-Analysis-ARIMA
